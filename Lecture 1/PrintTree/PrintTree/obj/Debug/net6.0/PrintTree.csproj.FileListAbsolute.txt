@@ -1,0 +1,15 @@
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\bin\Debug\net6.0\PrintTree.exe
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\bin\Debug\net6.0\PrintTree.deps.json
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\bin\Debug\net6.0\PrintTree.runtimeconfig.json
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\bin\Debug\net6.0\PrintTree.dll
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\bin\Debug\net6.0\PrintTree.pdb
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\obj\Debug\net6.0\PrintTree.csproj.AssemblyReference.cache
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\obj\Debug\net6.0\PrintTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\obj\Debug\net6.0\PrintTree.AssemblyInfoInputs.cache
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\obj\Debug\net6.0\PrintTree.AssemblyInfo.cs
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\obj\Debug\net6.0\PrintTree.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\obj\Debug\net6.0\PrintTree.dll
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\obj\Debug\net6.0\refint\PrintTree.dll
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\obj\Debug\net6.0\PrintTree.pdb
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\obj\Debug\net6.0\PrintTree.genruntimeconfig.cache
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\PrintTree\PrintTree\obj\Debug\net6.0\ref\PrintTree.dll

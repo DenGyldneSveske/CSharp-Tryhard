@@ -1,0 +1,15 @@
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\bin\Debug\net6.0\RadainDegreesConverter.exe
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\bin\Debug\net6.0\RadainDegreesConverter.deps.json
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\bin\Debug\net6.0\RadainDegreesConverter.runtimeconfig.json
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\bin\Debug\net6.0\RadainDegreesConverter.dll
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\bin\Debug\net6.0\RadainDegreesConverter.pdb
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\obj\Debug\net6.0\RadainDegreesConverter.csproj.AssemblyReference.cache
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\obj\Debug\net6.0\RadainDegreesConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\obj\Debug\net6.0\RadainDegreesConverter.AssemblyInfoInputs.cache
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\obj\Debug\net6.0\RadainDegreesConverter.AssemblyInfo.cs
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\obj\Debug\net6.0\RadainDegreesConverter.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\obj\Debug\net6.0\RadainDegreesConverter.dll
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\obj\Debug\net6.0\refint\RadainDegreesConverter.dll
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\obj\Debug\net6.0\RadainDegreesConverter.pdb
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\obj\Debug\net6.0\RadainDegreesConverter.genruntimeconfig.cache
+C:\Users\rasmu\OneDrive\Skrivebord\CSharp-Tryhard\Lecture 1\RadainDegreesConverter\RadainDegreesConverter\obj\Debug\net6.0\ref\RadainDegreesConverter.dll
